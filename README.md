@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/DragAditya/DragX-CLI">
-    <img src="https://raw.githubusercontent.com/DragAditya/DragX-CLI/main/assets/dragx-logo.png" alt="DragX CLI Logo" width="150">
+    
   </a>
 </p>
 
