@@ -12,9 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DragAditya/DragX-CLI/actions/workflows/ci.yml">
-    <img src="https://github.com/DragAditya/DragX-CLI/actions/workflows/ci.yml/badge.svg" alt="Build Status">
-  </a>
   <a href="https://www.npmjs.com/package/dragx-cli">
     <img src="https://img.shields.io/npm/v/dragx-cli?color=blue" alt="npm version">
   </a>
