@@ -1,11 +1,14 @@
+<h1 align="center">DragX CLI</h1>
+
+<p align="center">
+  <img src="./assets/banner.png" alt="DRAGX CLI Banner" width="100%">
+</p>
 
 <p align="center">
   <a href="https://github.com/DragAditya/DragX-CLI">
     
   </a>
 </p>
-
-<h1 align="center">DragX CLI</h1>
 
 <p align="center">
   <strong>Hinglish natural-language CLI for git/GitHub workflows with AI-powered auto-healing.</strong>
